@@ -1,0 +1,12 @@
+{
+  "1": {
+    "ticket_id": 1,
+    "ticket_type": "Student",
+    "price": 50
+  },
+  "2": {
+    "ticket_id": 2,
+    "ticket_type": "Student",
+    "price": 50
+  }
+}
